@@ -34,7 +34,7 @@ def main():
     calculator = FinanceCalculator()
 
     while True:
-        print("\n=== Калькулятор личных финансов v2 ===")
+        print("\n=== Калькулятор личных финансов ===")
         print("1. Добавить доход")
         print("2. Добавить расход")
         print("3. Показать финансовый отчёт")
